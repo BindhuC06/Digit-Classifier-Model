@@ -2,5 +2,4 @@ numpy
 tensorflow
 keras
 matplotlib
-pillow
-opencv-python
+python
