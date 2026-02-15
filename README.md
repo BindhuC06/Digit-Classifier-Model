@@ -41,7 +41,11 @@ Handwritten digit recognition is a classic computer vision and pattern recogniti
 1. Clone the repository  
    ```bash
    git clone https://github.com/BindhuC06/Digit-Classifier-Model.git
+
 2. Install dependencies
-    pip install -r requirements.txt
-3.Run the model
-    python main.py
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the model
+   ```bash
+   python main.py
